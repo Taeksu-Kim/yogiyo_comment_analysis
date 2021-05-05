@@ -4,7 +4,7 @@
 
 YOGIYO_v2_1.ipynb : 크롤링, 워드클라우드, bert 감성분석 후 워드클라우드   
 bert_sentiment_train.ipynb : bert 감성분석 학습파일   
-KoGPT2.ipynb : KoGPT yogiyo 댓글 finetuning 파일
+KoGPT2.ipynb : KoGPT yogiyo 댓글 finetuning 파일   
 test.txt : KoGPT2에 사용하는 댓글 모음 텍스트 파일
 
 # 참고자료
